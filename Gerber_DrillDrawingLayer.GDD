@@ -1,0 +1,24 @@
+G04 Layer: DrillDrawingLayer*
+G04 EasyEDA Pro v2.2.31.6, 2024-09-26 20:12:08*
+G04 Gerber Generator version 0.3*
+G04 Scale: 100 percent, Rotated: No, Reflected: No*
+G04 Dimensions in millimeters*
+G04 Leading zeros omitted, absolute positions, 3 integers and 5 decimals*
+%FSLAX35Y35*%
+%MOMM*%
+%AMIconRect*4,1,4,0.2,-0.2,-0.2,-0.2,-0.2,0.2,0.2,0.2,0.2,-0.2,0*4,0,4,0.166667,-0.166667,0.166667,0.166667,-0.166667,0.166667,-0.166667,-0.166667,0.166667,-0.166667,0*%
+%ADD10IconRect*%
+%ADD11C,0.44X0.373333*%
+G75*
+
+
+G04 Drill Drawing Start*
+G54D10*
+G01X665480Y-1899920D03*
+G54D11*
+G01X30629860Y-2849880D03*
+G01X30629860Y-932180D03*
+G04 Drill Drawing End*
+
+M02*
+
